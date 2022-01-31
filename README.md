@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C, Shell.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Ig : @afct_prod
+- 🎧 Production: cutt.ly/FmABw9F
 
 <!---
 GustonMari/GustonMari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
