@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GustonMari
-- 👀 I’m interested in synthesyzer, hardware equipement, eurorack. AI, machine learning and music theory, generative music and sound design.
-- 🌱 I’m working with C, C++, Shell, Docker, NestJs, React.
-- 💞️ I’m looking to collaborate on VST, AU, HARDWARE, AI.
-- 📫 How to reach me Ig : @afct_prod
+- 👀 I’m interested in Data Engineering, AI, machine learning, synthesyzer, hardware equipement, eurorack, generative music and sound design.
+- 🌱 I’m working with C, C++, Python, Shell, Docker, NestJs, React.
 - 🎧 Production: cutt.ly/FmABw9F
 
 <!---
