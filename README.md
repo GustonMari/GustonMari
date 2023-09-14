@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustonMari
-- 👀 I’m interested in Data Engineering, AI, machine learning, synthesyzer, hardware equipement, eurorack, generative music and sound design.
-- 🌱 I’m working with C, C++, Python, Shell, Docker, NestJs, React.
+- 👀 I’m interested in Data Engineering, AI, machine learning, generative music and sound design.
+- 🌱 I’m working with Python, Pandas, Spark, AWS, C, C++, Shell, Docker, NestJs, React.
 - 🎧 Production: cutt.ly/FmABw9F
 
 <!---
